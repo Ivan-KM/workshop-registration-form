@@ -28,15 +28,6 @@ Student number: 244-012 (last digit 2, so a 10% discount applies to participants
 - Participants under 18 pay the full fee.
 - An unrecognised workshop code shows an error and never produces a zero-fee registration.
 
-## Project structure
-
-workshop-registration/
-├── index.html   # form markup
-├── style.css    # .registration-card layout and result/error styles
-├── script.js    # validation and fee calculation
-└── README.md
-
-
 ## Test cases
 
 | Test | Inputs | Expected result |
